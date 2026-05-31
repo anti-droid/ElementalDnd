@@ -8,5 +8,5 @@ Act 1 terminates when
 The land is an oval area, surrounded by water but with a drastic edge down just out in the horizon.
 This is mostly known by the water folk
 
-<img src='../figs/diskworld_map.png' width="700px"/>
+<img src='../figs/diskworld_map.jpg' width="700px"/>
 ### The enemies
